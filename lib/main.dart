@@ -10,7 +10,9 @@ void main() {
   );
 }
 
+/// Main widget in the app
 class MyApp extends StatefulWidget {
+  /// Constructor of the main widget
   const MyApp({super.key});
 
   @override
